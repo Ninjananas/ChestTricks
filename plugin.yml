@@ -1,0 +1,13 @@
+name: ChestTricks
+main: ninjananas.mc.ChestTricks.Plugin
+version: 1.0
+api-version: 1.18
+permissions:
+ chesttricks.autostore:
+  default: true
+commands:
+ autostore:
+  description: Automatically store items in your inventory to nearby chests
+  usage: /autostore
+  permission: chesttricks.autostore
+  permission-message: You can't use this command!
