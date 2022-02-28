@@ -1,4 +1,4 @@
-# No Creeper Grief
+# Chest Tricks
 
 Spigot plugin that contains in-game utilities related to chests.
 
